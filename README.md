@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <p align="center">
-  <h4 align="center"><samp> :smiling_imp: I enjoy cooking behind a keyboard  :smiling_imp:</samp></h4>
+  <h4 align="center"><samp> :smiling_imp: I enjoy tinkering behind a keyboard  :smiling_imp:</samp></h4>
   <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/50704452/103693750-73247f00-4fa2-11eb-89b1-cd82fe4c9905.gif">
   </p>
