@@ -1,4 +1,13 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<p align="center">
+  <h4 align="center"><samp> :smiling_imp: I enjoy cooking behind a keyboard  :smiling_imp:</samp></h4>
+  <p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/50704452/103693750-73247f00-4fa2-11eb-89b1-cd82fe4c9905.gif">
+  </p>
+  <h4 align="center"><samp> Tools</samp></h4>
+ </p>
+ 
+ <p align=center><img src="images/python-original.svg" width=7%><img src="images/javascript-js-seeklogo.com.svg" width=7%><img src="images/c-plain.svg" width=7%><img src="images/docker-original.svg" width=7%><img src="images/django-seeklogo.com.svg" width=6%>
 
 <!--
 **Nkosinathi-Bonga-James-Mncube/Nkosinathi-Bonga-James-Mncube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
